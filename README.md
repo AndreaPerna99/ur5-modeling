@@ -5,6 +5,13 @@ Energy-based modeling and simulation of a UR5 robotic arm using bond graphs, twi
 
 ---
 
+## 📌 Project Info
+- 🎓 Course: Modeling and Simulation of Mechatronic Systems
+- 🏫 University of Bologna
+- 📅 Year: 2024
+
+---
+
 ## 🧠 About the Project
 
 This project focuses on the **modeling and simulation** of the **UR5 manipulator** by Universal Robots.  
@@ -113,12 +120,6 @@ The animation shows the simulated real-time behavior of the UR5 under PID contro
 
 ---
 
-## 📅 Year
-
-2024
-
----
-
 ## 👨‍🎓 Authors
 
 - Andrea Perna  
@@ -126,7 +127,7 @@ The animation shows the simulated real-time behavior of the UR5 under PID contro
 - Ammar Garooge  
 - Meisam Tavakoli  
 
-📧 andrea.perna3@studio.unibo.it
+📧 and.perna99@gmail.com
 
 ---
 
