@@ -62,10 +62,10 @@ This project has been entirely developed and simulated in **20Sim**:
 ## 🛠️ Model Structure
 
 <p align="center">
-  <img src="./images/full_model.png" height="250"/>
+  <img src="./images/full_model.png" height="240"/>
   <img src="./images/harmonic_drive.png" height="220"/>
   <img src="./images/joint.png" height="220"/>
-  <img src="./images/link.png" height="250"/>
+  <img src="./images/link.png" height="240"/>
 </p>
 
 Each block models a key physical subsystem of the UR5 robot using **bond graphs**, ensuring correct energy flows and system behavior.
