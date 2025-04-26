@@ -35,7 +35,7 @@ Developed for the final project of **Modeling and Simulation of Mechatronic Syst
 │   ├── 📘 ur5_data_sheet.pdf
 │   ├── 📘 ur5_inverse_kinematics.pdf
 │   ├── 📘 ur5_project_description.pdf
-├── 📁 Images/                           # Simulation diagrams
+├── 📁 images/                           # Simulation diagrams
 │   ├── 📸 full_model.png                # Full UR5 bond graph model
 │   ├── 📸 harmonic_drive.png            # Harmonic Drive subsystem
 │   ├── 📸 joint.png                     # Joint subsystem
