@@ -1,4 +1,4 @@
-# 🦾 Modeling and Simulation of a UR5 Robot Manipulator
+# Modeling and Simulation of a UR5 Robot Manipulator
 
 [![20-Sim](https://img.shields.io/badge/Software-20Sim-blue)](https://www.20sim.com/)  
 Energy-based modeling and simulation of a UR5 robotic arm using bond graphs, twists, wrenches, and PID-controlled dynamics.
