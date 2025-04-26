@@ -24,22 +24,23 @@ Developed for the final project of **Modeling and Simulation of Mechatronic Syst
 ```
 📦 ur5-manipulator-simulation/
 ├ 💻 UR5_PID_G.emx                       # Main code
-├── 📁 documents/                        # Additional documentation
-│   ├── 📘 UR5_Manipulator.pdf
-│   ├── 📘 MSMS_Project_Notes.pdf
-│   ├── 📘 harmonic_drive_data_sheet.pdf
-│   ├── 📘 ur5_data_sheet.pdf
-│   ├── 📘 ur5_inverse_kinematics.pdf
-│   ├── 📘 ur5_project_description.pdf
-├── 📁 images/                           # Simulation diagrams
-│   ├── 📸 full_model.png                # Full UR5 bond graph model
-│   ├── 📸 harmonic_drive.png            # Harmonic Drive subsystem
-│   ├── 📸 joint.png                     # Joint subsystem
-│   ├── 📸 link.png                      # Link subsystem
-│   └── 📸 animation.png                 # 3D simulated movement
-├── 📁 video/                            # Simulation video
-│   └── 🎥 PID_Control_Simulation.mp4
-├── 📄 README.md                         # You are here!
+├ 📘 UR5_Manipulator.pdf                 # Presentation
+├ 📁 documents/                          # Additional documentation
+│  ├ 📘 UR5_Manipulator.pdf
+│  ├ 📘 MSMS_Project_Notes.pdf
+│  ├ 📘 harmonic_drive_data_sheet.pdf
+│  ├ 📘 ur5_data_sheet.pdf
+│  ├ 📘 ur5_inverse_kinematics.pdf
+│  ├ 📘 ur5_project_description.pdf
+├ 📁 images/                            # Simulation diagrams
+│  ├ 📸 full_model.png                  # Full UR5 bond graph model
+│  ├ 📸 harmonic_drive.png              # Harmonic Drive subsystem
+│  ├ 📸 joint.png                       # Joint subsystem
+│  ├ 📸 link.png                        # Link subsystem
+│  └ 📸 animation.png                   # 3D simulated movement
+├ 📁 video/                             # Simulation video
+│  └ 🎥 PID_Control_Simulation.mp4
+├ 📄 README.md                          # You are here!
 ```
 
 ---
@@ -143,6 +144,7 @@ The animation shows the simulated real-time behavior of the UR5 under PID contro
 - [📘 UR5 Datasheet](./documents/ur5_data_sheet.pdf)
 - [📘 UR5 Inverse Kinematics](./documents/ur5_inverse_kinematics.pdf)
 - [📘 Project Description](./documents/ur5_project_description.pdf)
+  [📘 Project Presentation](.UR5_Manipulator.pdf)
 
 ---
 
