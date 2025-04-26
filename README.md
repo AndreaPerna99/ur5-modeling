@@ -23,12 +23,8 @@ Developed for the final project of **Modeling and Simulation of Mechatronic Syst
 
 ```
 📦 ur5-manipulator-simulation/
-├── 📁 Code/                             # Model files, bond graph components
-│   ├── 💻 ur5_link_model.nl             # Link model equations
-│   ├── 💻 ur5_joint_model.nl            # Joint constraints
-│   ├── 💻 harmonic_drive_model.nl       # Harmonic Drive component
-│   └── 💻 pid_controller_model.nl       # PID controllers
-├── 📁 Documents/                        # Additional documentation
+├ 💻 UR5_PID_G.emx                       # Main code
+├── 📁 documents/                        # Additional documentation
 │   ├── 📘 UR5_Manipulator.pdf
 │   ├── 📘 MSMS_Project_Notes.pdf
 │   ├── 📘 harmonic_drive_data_sheet.pdf
@@ -41,7 +37,7 @@ Developed for the final project of **Modeling and Simulation of Mechatronic Syst
 │   ├── 📸 joint.png                     # Joint subsystem
 │   ├── 📸 link.png                      # Link subsystem
 │   └── 📸 animation.png                 # 3D simulated movement
-├── 📁 Video/                            # Simulation video
+├── 📁 video/                            # Simulation video
 │   └── 🎥 PID_Control_Simulation.mp4
 ├── 📄 README.md                         # You are here!
 ```
@@ -83,7 +79,7 @@ Each block models a key physical subsystem of the UR5 robot using **bond graphs*
 </p>
 
 🎥 **Available Video**:  
-- [PID Control Simulation (MP4)](./Video/PID_Control_Simulation.mp4)
+- [PID Control Simulation (MP4)](./video/PID_Control_Simulation.mp4)
 
 The animation shows the simulated real-time behavior of the UR5 under PID control and gravity compensation.
 
@@ -141,13 +137,12 @@ The animation shows the simulated real-time behavior of the UR5 under PID contro
 
 ## 📎 Resources
 
-- [📘 Project Presentation (UR5_Manipulator.pdf)](./Documents/UR5_Manipulator.pdf)
-- [📘 Project Notes (MSMS_Project_Notes.pdf)](./Documents/MSMS_Project_Notes.pdf)
-- [📘 Harmonic Drive Datasheet](./Documents/harmonic_drive_data_sheet.pdf)
-- [📘 UR5 Datasheet](./Documents/ur5_data_sheet.pdf)
-- [📘 UR5 Inverse Kinematics](./Documents/ur5_inverse_kinematics.pdf)
-- [📘 Project Description](./Documents/ur5_project_description.pdf)
-- [🎥 PID Control Simulation Video](./Video/PID_Control_Simulation.mp4)
+- [📘 Project Presentation (UR5_Manipulator.pdf)](./documents/UR5_Manipulator.pdf)
+- [📘 Project Notes (MSMS_Project_Notes.pdf)](./documents/MSMS_Project_Notes.pdf)
+- [📘 Harmonic Drive Datasheet](./documents/harmonic_drive_data_sheet.pdf)
+- [📘 UR5 Datasheet](./documents/ur5_data_sheet.pdf)
+- [📘 UR5 Inverse Kinematics](./documents/ur5_inverse_kinematics.pdf)
+- [📘 Project Description](./documents/ur5_project_description.pdf)
 
 ---
 
