@@ -144,7 +144,7 @@ The animation shows the simulated real-time behavior of the UR5 under PID contro
 - [📘 UR5 Datasheet](./documents/ur5_data_sheet.pdf)
 - [📘 UR5 Inverse Kinematics](./documents/ur5_inverse_kinematics.pdf)
 - [📘 Project Description](./documents/ur5_project_description.pdf)
-  [📘 Project Presentation](.UR5_Manipulator.pdf)
+- [📘 Project Presentation](UR5_Manipulator.pdf)
 
 ---
 
